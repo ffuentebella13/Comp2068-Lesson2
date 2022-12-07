@@ -20,6 +20,6 @@
   },
   "homepage": "https://github.com/ffuentebella13/Comp2068-Lesson2#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.18.2"
   }
 }
